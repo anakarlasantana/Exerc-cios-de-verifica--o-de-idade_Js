@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: rgb(178, 120, 233);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+    margin: 25px;    
+}
+
+form{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(119, 118, 118);
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 25px auto;
+
+    
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
