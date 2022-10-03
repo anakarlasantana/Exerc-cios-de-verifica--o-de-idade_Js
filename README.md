@@ -1,4 +1,4 @@
-# Exerc-cios-de-verifica--o-de-idade_Js
+# Exercicios-de-verificar-idade_Js
 
 Exercícios para praticar html, css e noções básicas de Javascript como DOM e Repetição;
 
